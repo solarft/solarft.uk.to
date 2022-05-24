@@ -21,7 +21,7 @@ highlight_theme = "boron"
 
 # One of: blue, green, orange, pink, red.
 # Defaults to blue.
-accent_color = "maroon"
+accent_color = "cp_peach"
 
 # One of: blue, dark, green, orange, pink, red.
 # Enabling dark background will also modify primary font color
@@ -56,6 +56,8 @@ menu_items = [
     # see documentation below for more details
     {name = "tags", url = "$BASE_URL/tags"},
 
+    {name = "links", url = "$BASE_URL/links"},
+
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/solarft", newtab = true},
 ]
@@ -67,11 +69,11 @@ enable_post_view_navigation = true
 # The text shown at the bottom of a post,
 # before earlier/later post links.
 # Defaults to "Thanks for reading! Read other posts?"
-post_view_navigation_prompt = "Thanks for reading!?"
+post_view_navigation_prompt = "Thanks for reading!"
 
 # Optional: Global favicon URL and mimetype.
 #           Mimetype defaults to "image/x-icon".
 #           The URL should point at a file located
 #           in your site's "static" directory.
-favicon = "/solarftround.png"
+favicon = "/img/solarftround.png"
 favicon_mimetype = "image/png"
