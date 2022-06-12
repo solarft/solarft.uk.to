@@ -27,7 +27,7 @@ accent_color = "cp_peach"
 # Enabling dark background will also modify primary font color
 # to be darker.
 # Defaults to accent color (or, if not accent color specified, to blue).
-background_color = "catppuccin_black0"
+background_color = "catppuccin_mocha_crust"
 
 # The logo text - defaults to "Terminimal theme"
 logo_text = "Solarft"
