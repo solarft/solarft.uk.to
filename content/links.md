@@ -19,6 +19,13 @@ tags = ["links"]
 
 - [solarft.tk](https://solarft.tk)
 
+##  Donations (Crypto)
+
+- BTC:`bc1qa59mpnptre50ncmscresp6t308c6ry9qdxnwp4`
+- XMR:`473f6WmWTkcGKZFdazEN3QPY3hEenSGs9bqTSvNMeSW9YbaHxHjgXvAWJZkXdRxLpvEMWrngZosqXayzxgPY4Ws44kErxNd`
+- SOL:`EiBuWhMk3bVYgUHUHS9z7Bcdansw9s5wMBKcVwbD2nY9`
+- ETH:`0xcE86Cd9d666a3D84f18003474164A1209B09fB5B`
+
 ##  Social Media
 
 - [Discord](https://discord.com/users/413380725945925643)
