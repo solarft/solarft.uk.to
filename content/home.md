@@ -1,3 +1,10 @@
++++
+title = "Home"
+date = 2022-05-23
+
+[taxonomies]
+tags = ["home", "intro"]
++++
 
 # 👋 Hello, I'm Solarft
 
